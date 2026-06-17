@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Mapa InPost</string>
+  <string name="app_map_distance_too_far">Zbyt daleko! Przybliż widok mapy.</string>
+  <string name="app_map_update_error">Ups! Błąd aktualizacji mapy. Spróbuj ponownie.</string>
+  <string name="app_address">Ul. %1$s %2$s\n%3$s, %4$s</string>
+  <string name="app_address_no_number">Ul. %1$s\n%2$s, %3$s</string>
+  <string name="app_location">Lokalizacja</string>
+  <string name="app_location_indoor">Wewnątrz</string>
+  <string name="app_location_outdoor">Na zewnątrz</string>
+  <string name="app_operating_hours">Godziny otwarcia</string>
+  <string name="app_open">Otwarte</string>
+  <string name="app_closed">Zamknięte</string>
+  <string name="app_weekday_monday">Poniedziałek</string>
+  <string name="app_weekday_tuesday">Wtorek</string>
+  <string name="app_weekday_wednesday">Środa</string>
+  <string name="app_weekday_thursday">Czwartek</string>
+  <string name="app_weekday_friday">Piątek</string>
+  <string name="app_weekday_saturday">Sobota</string>
+  <string name="app_weekday_sunday">Niedziela</string>
+  <string name="app_easy_access">Łatwy dostęp</string>
+  <string name="app_operating_hours_24_7">Całą dobę, 7 dni w tygodniu (24/7)</string>
+  <string name="app_back_to_map">Powrót do mapy</string>
+  <string name="app_got_it">Rozumiem</string>
+  <string name="app_location_permission_denied">Odmowa dostępu do lokalizacji!</string>
+  <string name="app_location_permission_denied_text">Nie będziesz mógł zobaczyć swojej lokalizacji. \nAby włączyć tę funkcję, przyznaj uprawnienia w ustawieniach aplikacji.</string>
+  <string name="app_show_me">Pokaż mnie</string>
+  <string name="app_you_are_here">Jesteś tu</string>
+</resources>
